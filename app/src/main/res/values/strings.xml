@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarchaCatherineBhelLab4</string>
+
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="distance_from_ust_3_8km">Distance From UST: 3.8km</string>
+    <string name="location_gen_luna_real_sts_intramuros_manila_luzon_1002_philippines"><![CDATA[Location: Gen Luna & Real Sts Intramuros, Manila, Luzon 1002 Philippines]]></string>
+    <string name="san_agustin_church">San Agustin Church</string>
+    <string name="todo">TODO</string>
+
+</resources>
